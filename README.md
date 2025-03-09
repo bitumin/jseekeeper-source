@@ -27,3 +27,7 @@ To create an optimised version of the app:
 ```bash
 npm run build
 ```
+
+## License
+
+(GPL-3.0)[https://www.gnu.org/licenses/gpl-3.0.html]
